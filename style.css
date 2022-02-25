@@ -1,0 +1,31 @@
+body{
+    background-size: cover;
+}
+.head{
+    width: 100%;
+    font-size: xx-large;
+    margin: 0;
+}
+#status{
+    background-color: steelblue;
+    width: fit-content;
+    height: 10%;
+}
+.copy_right_footer{
+    bottom: 0%;
+    width: 100%;
+    position: fixed;
+    background-color: aquamarine;
+    height: 25;
+    text-align: center;
+   
+}
+.all{
+    font-size: 20;
+}
+canvas{
+    border-radius:20px ;
+    border: double;
+    margin-top:100;
+    box-shadow: 5px 5px 5px black;
+}
